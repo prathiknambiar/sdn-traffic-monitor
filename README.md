@@ -96,3 +96,7 @@ See screenshots below in `/screenshots` folder:
 - Ryu SDN Framework: https://ryu-sdn.org
 - OpenFlow 1.3 Spec: https://opennetworking.org/wp-content/uploads/2014/10/openflow-spec-v1.3.0.pdf
 - Jim Kurose & Keith Ross, Computer Networks: A Top-Down Approach
+
+## Student Details
+Name: Prathik M Nambiar
+SRN : PES2UG24CS371
