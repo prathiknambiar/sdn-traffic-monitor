@@ -7,11 +7,11 @@ An SDN-based traffic monitoring system using Mininet and Ryu (OpenFlow 1.3) that
 Star topology: 1 Open vSwitch (s1) connected to 4 hosts (h1-h4) with 10 Mbps links.
 
 ```
-h1
-|
+     h1
+     |
 h2--s1--h3
-|
-h4
+     |
+     h4
 ```
 ## Setup
 
